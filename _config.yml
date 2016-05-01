@@ -1,0 +1,28 @@
+name: Invest Ethiopia
+favicon: null
+layout_spectrum: 0.6474537565372884
+typography_spectrum: 0.510688693029806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7593059646897018
+  lightness: 0.18611301365308464
+  saturation: 0.7983465588185936
+  rhythmicContrast: 0.1185810633469373
+purpose: []
